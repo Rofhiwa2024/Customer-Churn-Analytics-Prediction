@@ -5,7 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
-Briefly describe the business or real-world problem you are solving.
 * **Objective:** [Predict customer churn using machine learning to help subscription services retain users.]
 * **Key Findings:** [Identified that users without automatic payment methods are 3x more likely to cancel within 90 days.]
 
